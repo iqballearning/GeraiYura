@@ -1,0 +1,8 @@
+insert into karyawangeraiyura(Id_Karyawan, Nama_Karyawan)
+values 
+('KRY01', 'KARYAWAN INDAH PUTRI'),
+('KRY02', 'KARYAWAN NABILA PUTRI'),
+('KRY03', 'KARYAWAN CANTIKA SABILA'),
+('KRY04', 'KARYAWAN AMANDA PUTRI'),
+('KRY05', 'KARYAWAN NANDA SARI'),
+('KRY06', 'KARYAWAN INTAN NABILA');
